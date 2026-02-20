@@ -1,4 +1,4 @@
-# SST_XIAO_ESP32S3
+# STT_XIAO_ESP32S3
 A compact voice-to-text system using Seeed Studio XIAO ESP32S3 and ElevenLabs API.
 
 ## Features
